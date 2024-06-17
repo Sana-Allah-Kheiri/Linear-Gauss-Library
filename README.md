@@ -1,0 +1,2 @@
+# Linear-Gauss-Library
+This repository contains console applications developed in Python programming language to help computer science students solve system of equations with any number of variables using Gauss Elimination &amp; Gauss-Jordan methods, and decompose matrix using LU and Cholesky approaches.
